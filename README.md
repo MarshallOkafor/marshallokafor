@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/37137713/128654147-fd2f1a93-fdd5-4a84-a1a6-d618265823b3.gif" width="350" height="250">
+  <img src="https://user-images.githubusercontent.com/37137713/128654147-fd2f1a93-fdd5-4a84-a1a6-d618265823b3.gif" width="300" height="250">
 </p>
 
 <h2 align="center">👋 Hello there, I'm Marshall Okafor!</h2>
