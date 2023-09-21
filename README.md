@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MarshallOkafor/marshallokafor/assets/89559173/cbbc8749-3523-4f03-a183-6fcd0ed51466" width="250" height="250">
+  <img src="https://user-images.githubusercontent.com/37137713/128654147-fd2f1a93-fdd5-4a84-a1a6-d618265823b3.gif" width="250" height="250">
 </p>
 
 <h2 align="center">👋 Hello there, I'm Marshall Okafor!</h2>
@@ -19,8 +19,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" width="40"/> 
   </a>
   &nbsp;
-  <a href="https://twitter.com/MarshallOkafor" target="blank">
-    <img src="https://github.com/MarshallOkafor/marshallokafor/assets/89559173/651c686e-6870-4341-8ee5-3aeea3ee1566" alt="X" height="40" width="40"/>
+  <a href="https://www.twitter.com/MarshallOkafor" target="blank">
+    <img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="X" height="40" width="40"/>
   </a>
 </p>
 
