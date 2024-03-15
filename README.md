@@ -10,7 +10,7 @@
 
 - 🔭 I’m a Ph.D. student in Computer Science at Saint Louis University. My research interest is in Artificial intelligence and IoTs
 - 👯 I’m looking to collaborate on optimizing intelligence among distributed autonomous systems
-- 🌱 I’m currently working on federated learning in IoTs
+- 🌱 I’m currently working on using Machine Learning to optimize resource use in IoTs
 - 📫 You can reach me at **okwudilichukwu.okafor@slu.edu**
 
 <h3 align="left">🔗 Connect with me:</h3>
