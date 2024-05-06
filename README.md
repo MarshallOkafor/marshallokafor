@@ -8,10 +8,10 @@
 
 ---
 
-- 🔭 I’m a Ph.D. student in Computer Science at Saint Louis University. My research interest is in Artificial intelligence and IoTs
+- 🔭 My research interest is in Artificial intelligence and IoTs
 - 👯 I’m looking to collaborate on optimizing intelligence among distributed autonomous systems
 - 🌱 I’m currently working on using Machine Learning to optimize resource use in IoTs
-- 📫 You can reach me at **okwudilichukwu.okafor@slu.edu**
+- 📫 You can reach me at **marshallokafor@gmail.com**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p>
