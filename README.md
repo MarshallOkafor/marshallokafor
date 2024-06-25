@@ -4,13 +4,13 @@
 
 <h2 align="center">👋 Hello there, I'm Marshall Okafor!</h2>
 
-<h4 align="center">A pragmatic programmer, passionate computer scientist and researcher</h4>
+<h4 align="center">A pragmatic programmer, passionate Software and Data Engineer</h4>
 
 ---
 
-- 🔭 My research interest is in Artificial intelligence and IoTs
-- 👯 I’m looking to collaborate on optimizing intelligence among distributed autonomous systems
-- 🌱 I’m currently working on using Machine Learning to optimize resource use in IoTs
+- 🔭 I love Artificial intelligence and big data.
+- 👯 I enjoy developing intelligent applications that leverages the power of AI and data.
+- 🌱 I’m currently working on Machine Learning and developing AI agents with augmented generation (RAG).
 - 📫 You can reach me at **marshallokafor@gmail.com**
 
 <h3 align="left">🔗 Connect with me:</h3>
