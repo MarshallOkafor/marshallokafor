@@ -9,7 +9,7 @@
 ---
 
 - 🔭 I love Artificial intelligence and big data.
-- 👯 I enjoy developing intelligent applications that leverages the power of AI and data.
+- 👯 I enjoy developing intelligent applications that leverage the power of AI and data.
 - 🌱 I’m currently working on Machine Learning and developing AI agents with augmented generation (RAG).
 - 📫 You can reach me at **marshallokafor@gmail.com**
 
